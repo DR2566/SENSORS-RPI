@@ -1,0 +1,22 @@
+h1{
+font-size:35pt; color:rgb(6, 18, 122); text-align:center; font-family:lovelo; margin:30px; 
+}
+p{
+font-size:25pt; color:rgb(6, 18, 122); text-align:left; font-family:draft; margin:5px; 
+}
+
+
+
+
+
+@font-face {
+font-family: draft;
+src: url(https://letka-g.ml/draftb.otf);
+}
+
+@font-face {
+font-family: lovelo;
+src: url(https://letka-g.ml/Lovelo.otf);
+}
+
+
